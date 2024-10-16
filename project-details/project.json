@@ -1,0 +1,9 @@
+{
+    "title": "Location Reminder App",
+    "description": "This app will give reminder notifications based on user location.\nMade for shopping, errands, commutes, tasks, etc.",
+    "team": [],
+    "languages": ["Kotlin", "Java", "XML"],
+    "frameworks": ["Google Maps API", "Google Places API", "Android SDK"],
+    "designPatterns": ["Observer Pattern", "MVC"],
+    "showProject": true
+}
